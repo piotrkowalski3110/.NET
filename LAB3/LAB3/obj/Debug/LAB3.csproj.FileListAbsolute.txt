@@ -1,0 +1,7 @@
+C:\Users\piotr\Desktop\Programowanie\C#\LAB3\LAB3\bin\Debug\LAB3.exe
+C:\Users\piotr\Desktop\Programowanie\C#\LAB3\LAB3\bin\Debug\LAB3.pdb
+C:\Users\piotr\Desktop\Programowanie\C#\LAB3\LAB3\obj\Debug\LAB3.csproj.AssemblyReference.cache
+C:\Users\piotr\Desktop\Programowanie\C#\LAB3\LAB3\obj\Debug\LAB3.csproj.SuggestedBindingRedirects.cache
+C:\Users\piotr\Desktop\Programowanie\C#\LAB3\LAB3\obj\Debug\LAB3.csproj.CoreCompileInputs.cache
+C:\Users\piotr\Desktop\Programowanie\C#\LAB3\LAB3\obj\Debug\LAB3.exe
+C:\Users\piotr\Desktop\Programowanie\C#\LAB3\LAB3\obj\Debug\LAB3.pdb
