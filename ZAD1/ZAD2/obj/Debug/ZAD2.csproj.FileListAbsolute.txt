@@ -1,0 +1,11 @@
+C:\Users\piotr\Desktop\Programowanie\C#\ZAD1\ZAD2\bin\Debug\ZAD2.exe.config
+C:\Users\piotr\Desktop\Programowanie\C#\ZAD1\ZAD2\bin\Debug\ZAD2.exe
+C:\Users\piotr\Desktop\Programowanie\C#\ZAD1\ZAD2\bin\Debug\ZAD2.pdb
+C:\Users\piotr\Desktop\Programowanie\C#\ZAD1\ZAD2\obj\Debug\ZAD2.csproj.AssemblyReference.cache
+C:\Users\piotr\Desktop\Programowanie\C#\ZAD1\ZAD2\obj\Debug\ZAD2.csproj.SuggestedBindingRedirects.cache
+C:\Users\piotr\Desktop\Programowanie\C#\ZAD1\ZAD2\obj\Debug\ZAD2.Properties.Resources.resources
+C:\Users\piotr\Desktop\Programowanie\C#\ZAD1\ZAD2\obj\Debug\ZAD2.csproj.GenerateResource.cache
+C:\Users\piotr\Desktop\Programowanie\C#\ZAD1\ZAD2\obj\Debug\ZAD2.csproj.CoreCompileInputs.cache
+C:\Users\piotr\Desktop\Programowanie\C#\ZAD1\ZAD2\obj\Debug\ZAD2.exe
+C:\Users\piotr\Desktop\Programowanie\C#\ZAD1\ZAD2\obj\Debug\ZAD2.pdb
+C:\Users\piotr\Desktop\Programowanie\C#\ZAD1\ZAD2\obj\Debug\ZAD2.Form1.resources

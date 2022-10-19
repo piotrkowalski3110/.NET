@@ -1,0 +1,11 @@
+C:\Users\piotr\Desktop\Programowanie\C#\LAB2\LAB2\bin\Debug\LAB2.exe.config
+C:\Users\piotr\Desktop\Programowanie\C#\LAB2\LAB2\bin\Debug\LAB2.exe
+C:\Users\piotr\Desktop\Programowanie\C#\LAB2\LAB2\bin\Debug\LAB2.pdb
+C:\Users\piotr\Desktop\Programowanie\C#\LAB2\LAB2\obj\Debug\LAB2.csproj.AssemblyReference.cache
+C:\Users\piotr\Desktop\Programowanie\C#\LAB2\LAB2\obj\Debug\LAB2.csproj.SuggestedBindingRedirects.cache
+C:\Users\piotr\Desktop\Programowanie\C#\LAB2\LAB2\obj\Debug\LAB2.Properties.Resources.resources
+C:\Users\piotr\Desktop\Programowanie\C#\LAB2\LAB2\obj\Debug\LAB2.csproj.GenerateResource.cache
+C:\Users\piotr\Desktop\Programowanie\C#\LAB2\LAB2\obj\Debug\LAB2.csproj.CoreCompileInputs.cache
+C:\Users\piotr\Desktop\Programowanie\C#\LAB2\LAB2\obj\Debug\LAB2.exe
+C:\Users\piotr\Desktop\Programowanie\C#\LAB2\LAB2\obj\Debug\LAB2.pdb
+C:\Users\piotr\Desktop\Programowanie\C#\LAB2\LAB2\obj\Debug\LAB2.Variables.resources

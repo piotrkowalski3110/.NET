@@ -1,0 +1,7 @@
+C:\Users\piotr\Desktop\Programowanie\C#\LAB2\Lab2-pętle-konsola\bin\Debug\Lab2_pętle_konsola.exe
+C:\Users\piotr\Desktop\Programowanie\C#\LAB2\Lab2-pętle-konsola\bin\Debug\Lab2_pętle_konsola.pdb
+C:\Users\piotr\Desktop\Programowanie\C#\LAB2\Lab2-pętle-konsola\obj\Debug\Lab2-pętle-konsola.csproj.AssemblyReference.cache
+C:\Users\piotr\Desktop\Programowanie\C#\LAB2\Lab2-pętle-konsola\obj\Debug\Lab2-pętle-konsola.csproj.SuggestedBindingRedirects.cache
+C:\Users\piotr\Desktop\Programowanie\C#\LAB2\Lab2-pętle-konsola\obj\Debug\Lab2-pętle-konsola.csproj.CoreCompileInputs.cache
+C:\Users\piotr\Desktop\Programowanie\C#\LAB2\Lab2-pętle-konsola\obj\Debug\Lab2_pętle_konsola.exe
+C:\Users\piotr\Desktop\Programowanie\C#\LAB2\Lab2-pętle-konsola\obj\Debug\Lab2_pętle_konsola.pdb

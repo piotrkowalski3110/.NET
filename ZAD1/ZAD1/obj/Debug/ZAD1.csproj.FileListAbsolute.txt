@@ -1,0 +1,7 @@
+C:\Users\piotr\Desktop\Programowanie\C#\ZAD1\ZAD1\bin\Debug\ZAD1.exe
+C:\Users\piotr\Desktop\Programowanie\C#\ZAD1\ZAD1\bin\Debug\ZAD1.pdb
+C:\Users\piotr\Desktop\Programowanie\C#\ZAD1\ZAD1\obj\Debug\ZAD1.csproj.AssemblyReference.cache
+C:\Users\piotr\Desktop\Programowanie\C#\ZAD1\ZAD1\obj\Debug\ZAD1.csproj.SuggestedBindingRedirects.cache
+C:\Users\piotr\Desktop\Programowanie\C#\ZAD1\ZAD1\obj\Debug\ZAD1.csproj.CoreCompileInputs.cache
+C:\Users\piotr\Desktop\Programowanie\C#\ZAD1\ZAD1\obj\Debug\ZAD1.exe
+C:\Users\piotr\Desktop\Programowanie\C#\ZAD1\ZAD1\obj\Debug\ZAD1.pdb
