@@ -30,7 +30,7 @@
         private void InitializeComponent()
         {
             this.tab1TextBox = new System.Windows.Forms.TextBox();
-            this.textBox2 = new System.Windows.Forms.TextBox();
+            this.resultsTextBox = new System.Windows.Forms.TextBox();
             this.Tab2TextBox = new System.Windows.Forms.TextBox();
             this.textBox4 = new System.Windows.Forms.TextBox();
             this.label1 = new System.Windows.Forms.Label();
@@ -61,13 +61,13 @@
             this.tab1TextBox.Size = new System.Drawing.Size(197, 177);
             this.tab1TextBox.TabIndex = 0;
             // 
-            // textBox2
+            // resultsTextBox
             // 
-            this.textBox2.Location = new System.Drawing.Point(215, 28);
-            this.textBox2.Multiline = true;
-            this.textBox2.Name = "textBox2";
-            this.textBox2.Size = new System.Drawing.Size(197, 177);
-            this.textBox2.TabIndex = 1;
+            this.resultsTextBox.Location = new System.Drawing.Point(215, 28);
+            this.resultsTextBox.Multiline = true;
+            this.resultsTextBox.Name = "resultsTextBox";
+            this.resultsTextBox.Size = new System.Drawing.Size(197, 177);
+            this.resultsTextBox.TabIndex = 1;
             // 
             // Tab2TextBox
             // 
@@ -165,6 +165,7 @@
             this.button5.TabIndex = 12;
             this.button5.Text = "Maksimum";
             this.button5.UseVisualStyleBackColor = true;
+            this.button5.Click += new System.EventHandler(this.button5_Click);
             // 
             // button6
             // 
@@ -201,6 +202,7 @@
             this.button9.TabIndex = 16;
             this.button9.Text = "Sortuj";
             this.button9.UseVisualStyleBackColor = true;
+            this.button9.Click += new System.EventHandler(this.button9_Click);
             // 
             // button10
             // 
@@ -210,6 +212,7 @@
             this.button10.TabIndex = 17;
             this.button10.Text = "Dodaj";
             this.button10.UseVisualStyleBackColor = true;
+            this.button10.Click += new System.EventHandler(this.button10_Click);
             // 
             // button11
             // 
@@ -271,7 +274,7 @@
             this.Controls.Add(this.label1);
             this.Controls.Add(this.textBox4);
             this.Controls.Add(this.Tab2TextBox);
-            this.Controls.Add(this.textBox2);
+            this.Controls.Add(this.resultsTextBox);
             this.Controls.Add(this.tab1TextBox);
             this.Name = "Form1";
             this.Text = "Form1";
@@ -311,7 +314,7 @@
 
         private System.Windows.Forms.TextBox Tab2TextBox;
 
-        private System.Windows.Forms.TextBox textBox2;
+        private System.Windows.Forms.TextBox resultsTextBox;
 
         private System.Windows.Forms.TextBox tab1TextBox;
 
