@@ -1,0 +1,7 @@
+C:\Users\piotr\Desktop\.NET\C# Kolokwium powótrzenie\Lab1-console-app\bin\Debug\Lab1_console_app.exe
+C:\Users\piotr\Desktop\.NET\C# Kolokwium powótrzenie\Lab1-console-app\bin\Debug\Lab1_console_app.pdb
+C:\Users\piotr\Desktop\.NET\C# Kolokwium powótrzenie\Lab1-console-app\obj\Debug\Lab1-console-app.csproj.AssemblyReference.cache
+C:\Users\piotr\Desktop\.NET\C# Kolokwium powótrzenie\Lab1-console-app\obj\Debug\Lab1-console-app.csproj.SuggestedBindingRedirects.cache
+C:\Users\piotr\Desktop\.NET\C# Kolokwium powótrzenie\Lab1-console-app\obj\Debug\Lab1-console-app.csproj.CoreCompileInputs.cache
+C:\Users\piotr\Desktop\.NET\C# Kolokwium powótrzenie\Lab1-console-app\obj\Debug\Lab1_console_app.exe
+C:\Users\piotr\Desktop\.NET\C# Kolokwium powótrzenie\Lab1-console-app\obj\Debug\Lab1_console_app.pdb
