@@ -1,0 +1,6 @@
+C:\Users\piotr\Desktop\.NET\Kolokwium1\Kolokwium1-Lib\FormsLib\bin\Debug\FormsLib.dll
+C:\Users\piotr\Desktop\.NET\Kolokwium1\Kolokwium1-Lib\FormsLib\bin\Debug\FormsLib.pdb
+C:\Users\piotr\Desktop\.NET\Kolokwium1\Kolokwium1-Lib\FormsLib\obj\Debug\FormsLib.csproj.AssemblyReference.cache
+C:\Users\piotr\Desktop\.NET\Kolokwium1\Kolokwium1-Lib\FormsLib\obj\Debug\FormsLib.csproj.CoreCompileInputs.cache
+C:\Users\piotr\Desktop\.NET\Kolokwium1\Kolokwium1-Lib\FormsLib\obj\Debug\FormsLib.dll
+C:\Users\piotr\Desktop\.NET\Kolokwium1\Kolokwium1-Lib\FormsLib\obj\Debug\FormsLib.pdb

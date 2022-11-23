@@ -1,0 +1,10 @@
+C:\Users\piotr\Desktop\.NET\Kolos powtórzenie\ClassLibrary1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\piotr\Desktop\.NET\Kolos powtórzenie\ClassLibrary1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\piotr\Desktop\.NET\Kolos powtórzenie\ClassLibrary1\ConsoleApplication1\bin\Debug\ClassLibrary1.dll
+C:\Users\piotr\Desktop\.NET\Kolos powtórzenie\ClassLibrary1\ConsoleApplication1\bin\Debug\ClassLibrary1.pdb
+C:\Users\piotr\Desktop\.NET\Kolos powtórzenie\ClassLibrary1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csproj.AssemblyReference.cache
+C:\Users\piotr\Desktop\.NET\Kolos powtórzenie\ClassLibrary1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csproj.SuggestedBindingRedirects.cache
+C:\Users\piotr\Desktop\.NET\Kolos powtórzenie\ClassLibrary1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csproj.CoreCompileInputs.cache
+C:\Users\piotr\Desktop\.NET\Kolos powtórzenie\ClassLibrary1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csproj.CopyComplete
+C:\Users\piotr\Desktop\.NET\Kolos powtórzenie\ClassLibrary1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\piotr\Desktop\.NET\Kolos powtórzenie\ClassLibrary1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

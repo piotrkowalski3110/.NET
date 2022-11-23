@@ -1,0 +1,6 @@
+C:\Users\piotr\Desktop\.NET\Kolokwium1\Kolokwium1-Lib\Kolokwium1-Lib\bin\Debug\Kolokwium1_Lib.dll
+C:\Users\piotr\Desktop\.NET\Kolokwium1\Kolokwium1-Lib\Kolokwium1-Lib\bin\Debug\Kolokwium1_Lib.pdb
+C:\Users\piotr\Desktop\.NET\Kolokwium1\Kolokwium1-Lib\Kolokwium1-Lib\obj\Debug\Kolokwium1-Lib.csproj.AssemblyReference.cache
+C:\Users\piotr\Desktop\.NET\Kolokwium1\Kolokwium1-Lib\Kolokwium1-Lib\obj\Debug\Kolokwium1-Lib.csproj.CoreCompileInputs.cache
+C:\Users\piotr\Desktop\.NET\Kolokwium1\Kolokwium1-Lib\Kolokwium1-Lib\obj\Debug\Kolokwium1_Lib.dll
+C:\Users\piotr\Desktop\.NET\Kolokwium1\Kolokwium1-Lib\Kolokwium1-Lib\obj\Debug\Kolokwium1_Lib.pdb

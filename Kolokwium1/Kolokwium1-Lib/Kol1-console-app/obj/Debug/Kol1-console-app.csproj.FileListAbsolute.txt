@@ -1,0 +1,10 @@
+C:\Users\piotr\Desktop\.NET\Kolokwium1\Kolokwium1-Lib\Kol1-console-app\bin\Debug\Kol1_console_app.exe
+C:\Users\piotr\Desktop\.NET\Kolokwium1\Kolokwium1-Lib\Kol1-console-app\bin\Debug\Kol1_console_app.pdb
+C:\Users\piotr\Desktop\.NET\Kolokwium1\Kolokwium1-Lib\Kol1-console-app\bin\Debug\Kolokwium1_Lib.dll
+C:\Users\piotr\Desktop\.NET\Kolokwium1\Kolokwium1-Lib\Kol1-console-app\bin\Debug\Kolokwium1_Lib.pdb
+C:\Users\piotr\Desktop\.NET\Kolokwium1\Kolokwium1-Lib\Kol1-console-app\obj\Debug\Kol1-console-app.csproj.AssemblyReference.cache
+C:\Users\piotr\Desktop\.NET\Kolokwium1\Kolokwium1-Lib\Kol1-console-app\obj\Debug\Kol1-console-app.csproj.SuggestedBindingRedirects.cache
+C:\Users\piotr\Desktop\.NET\Kolokwium1\Kolokwium1-Lib\Kol1-console-app\obj\Debug\Kol1-console-app.csproj.CoreCompileInputs.cache
+C:\Users\piotr\Desktop\.NET\Kolokwium1\Kolokwium1-Lib\Kol1-console-app\obj\Debug\Kol1-console-app.csproj.CopyComplete
+C:\Users\piotr\Desktop\.NET\Kolokwium1\Kolokwium1-Lib\Kol1-console-app\obj\Debug\Kol1_console_app.exe
+C:\Users\piotr\Desktop\.NET\Kolokwium1\Kolokwium1-Lib\Kol1-console-app\obj\Debug\Kol1_console_app.pdb

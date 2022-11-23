@@ -1,0 +1,14 @@
+C:\Users\piotr\Desktop\.NET\Kolokwium1\Kolokwium1-Lib\Kol1FormApp\bin\Debug\Kol1FormApp.exe.config
+C:\Users\piotr\Desktop\.NET\Kolokwium1\Kolokwium1-Lib\Kol1FormApp\bin\Debug\Kol1FormApp.exe
+C:\Users\piotr\Desktop\.NET\Kolokwium1\Kolokwium1-Lib\Kol1FormApp\bin\Debug\Kol1FormApp.pdb
+C:\Users\piotr\Desktop\.NET\Kolokwium1\Kolokwium1-Lib\Kol1FormApp\bin\Debug\FormsLib.dll
+C:\Users\piotr\Desktop\.NET\Kolokwium1\Kolokwium1-Lib\Kol1FormApp\bin\Debug\FormsLib.pdb
+C:\Users\piotr\Desktop\.NET\Kolokwium1\Kolokwium1-Lib\Kol1FormApp\obj\Debug\Kol1FormApp.csproj.AssemblyReference.cache
+C:\Users\piotr\Desktop\.NET\Kolokwium1\Kolokwium1-Lib\Kol1FormApp\obj\Debug\Kol1FormApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\piotr\Desktop\.NET\Kolokwium1\Kolokwium1-Lib\Kol1FormApp\obj\Debug\Kol1FormApp.Properties.Resources.resources
+C:\Users\piotr\Desktop\.NET\Kolokwium1\Kolokwium1-Lib\Kol1FormApp\obj\Debug\Kol1FormApp.csproj.GenerateResource.cache
+C:\Users\piotr\Desktop\.NET\Kolokwium1\Kolokwium1-Lib\Kol1FormApp\obj\Debug\Kol1FormApp.csproj.CoreCompileInputs.cache
+C:\Users\piotr\Desktop\.NET\Kolokwium1\Kolokwium1-Lib\Kol1FormApp\obj\Debug\Kol1FormApp.csproj.CopyComplete
+C:\Users\piotr\Desktop\.NET\Kolokwium1\Kolokwium1-Lib\Kol1FormApp\obj\Debug\Kol1FormApp.exe
+C:\Users\piotr\Desktop\.NET\Kolokwium1\Kolokwium1-Lib\Kol1FormApp\obj\Debug\Kol1FormApp.pdb
+C:\Users\piotr\Desktop\.NET\Kolokwium1\Kolokwium1-Lib\Kol1FormApp\obj\Debug\Kol1FormApp.Form1.resources
