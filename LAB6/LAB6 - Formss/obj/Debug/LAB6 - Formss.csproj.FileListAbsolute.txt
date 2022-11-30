@@ -1,0 +1,11 @@
+C:\Users\piotr\Desktop\.NET\LAB6\LAB6 - Formss\bin\Debug\LAB6___Formss.exe.config
+C:\Users\piotr\Desktop\.NET\LAB6\LAB6 - Formss\bin\Debug\LAB6___Formss.exe
+C:\Users\piotr\Desktop\.NET\LAB6\LAB6 - Formss\bin\Debug\LAB6___Formss.pdb
+C:\Users\piotr\Desktop\.NET\LAB6\LAB6 - Formss\obj\Debug\LAB6 - Formss.csproj.AssemblyReference.cache
+C:\Users\piotr\Desktop\.NET\LAB6\LAB6 - Formss\obj\Debug\LAB6 - Formss.csproj.SuggestedBindingRedirects.cache
+C:\Users\piotr\Desktop\.NET\LAB6\LAB6 - Formss\obj\Debug\LAB6___Formss.Properties.Resources.resources
+C:\Users\piotr\Desktop\.NET\LAB6\LAB6 - Formss\obj\Debug\LAB6 - Formss.csproj.GenerateResource.cache
+C:\Users\piotr\Desktop\.NET\LAB6\LAB6 - Formss\obj\Debug\LAB6 - Formss.csproj.CoreCompileInputs.cache
+C:\Users\piotr\Desktop\.NET\LAB6\LAB6 - Formss\obj\Debug\LAB6___Formss.exe
+C:\Users\piotr\Desktop\.NET\LAB6\LAB6 - Formss\obj\Debug\LAB6___Formss.pdb
+C:\Users\piotr\Desktop\.NET\LAB6\LAB6 - Formss\obj\Debug\LAB6___Formss.Form1.resources

@@ -1,0 +1,7 @@
+C:\Users\piotr\Desktop\.NET\LAB6\LAB6-console\bin\Debug\LAB6_console.exe
+C:\Users\piotr\Desktop\.NET\LAB6\LAB6-console\bin\Debug\LAB6_console.pdb
+C:\Users\piotr\Desktop\.NET\LAB6\LAB6-console\obj\Debug\LAB6-console.csproj.AssemblyReference.cache
+C:\Users\piotr\Desktop\.NET\LAB6\LAB6-console\obj\Debug\LAB6-console.csproj.SuggestedBindingRedirects.cache
+C:\Users\piotr\Desktop\.NET\LAB6\LAB6-console\obj\Debug\LAB6-console.csproj.CoreCompileInputs.cache
+C:\Users\piotr\Desktop\.NET\LAB6\LAB6-console\obj\Debug\LAB6_console.exe
+C:\Users\piotr\Desktop\.NET\LAB6\LAB6-console\obj\Debug\LAB6_console.pdb

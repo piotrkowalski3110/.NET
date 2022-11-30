@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LAB6-console", "LAB6-console\LAB6-console.csproj", "{9C614D74-CC1A-4EDA-A042-6E73418C2B6F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LAB6 - Formss", "LAB6 - Formss\LAB6 - Formss.csproj", "{0C84569E-F910-4411-BDCF-A4A4A1DA8331}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C614D74-CC1A-4EDA-A042-6E73418C2B6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C614D74-CC1A-4EDA-A042-6E73418C2B6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C614D74-CC1A-4EDA-A042-6E73418C2B6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C614D74-CC1A-4EDA-A042-6E73418C2B6F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C84569E-F910-4411-BDCF-A4A4A1DA8331}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C84569E-F910-4411-BDCF-A4A4A1DA8331}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C84569E-F910-4411-BDCF-A4A4A1DA8331}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C84569E-F910-4411-BDCF-A4A4A1DA8331}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
