@@ -65,13 +65,13 @@ namespace LAB6___Formss
 
         private void button1_Click(object sender, EventArgs e)
         {
-            if (textBox1.Text.Length == 0)
+            string[] Wspolczynniki = textBox1.Text.Split(',');
+            if (Wspolczynniki.Length != 2)
             {
-                textBox2.Text = "Podaj liczby!";
+                textBox2.Text = "Błędne dane wejściowe!";
             }
             else
             {
-                string[] Wspolczynniki = textBox1.Text.Split(',');
                 _liniowa = new Funkcja(double.Parse(Wspolczynniki[0]), double.Parse(Wspolczynniki[1]));
                 textBox2.Text = _liniowa.Info();
                 Graphics g = Graphics.FromImage(Axis);
@@ -93,15 +93,28 @@ namespace LAB6___Formss
 
         private void button2_Click(object sender, EventArgs e)
         {
-            if (textBox3.Text.Length == 0)
+            string[] kwadrwsp = textBox3.Text.Split(',');
+            if (kwadrwsp.Length != 3)
             {
-                textBox2.Text = "Podaj liczby!";
+                textBox2.Text = "Błędne dane wejściowe!";
             }
             else
             {
-                string[] kwadrwsp = textBox3.Text.Split(',');
-                _kwadratowa = new FunkcjaK(double.Parse(kwadrwsp[0]), double.Parse(kwadrwsp[1]), double.Parse(kwadrwsp[2]));
+                _kwadratowa = new FunkcjaK(double.Parse(kwadrwsp[0]), double.Parse(kwadrwsp[1]),
+                    double.Parse(kwadrwsp[2]));
                 textBox2.Text = _kwadratowa.Info();
+                Graphics g = Graphics.FromImage(Axis);
+                g.Clear(Color.White);
+                DrawAxis(pictureBox1);
+                Pen p2 = new Pen(Color.Red, 2.0f);
+                Point P1st = new Point((int)ScaleX(pictureBox1, -10),
+                    (int)(pictureBox1.Height - ScaleY(pictureBox1, (float)_kwadratowa.A * (-10)*(-10) + (float)_kwadratowa.C)));
+                PointF P2nd = new Point(, pictureBox1.Height - ScaleY(pictureBox1, float.Parse(_kwadratowa.wierzcholek()[1])));
+                Point P3rd = new Point((int)ScaleX(pictureBox1, 10),
+                    (int)(pictureBox1.Height - ScaleY(pictureBox1, (float)_kwadratowa.A * (10)*(10) + (float)_kwadratowa.C)));
+                Point[] points = { P1st, P2nd, P3rd };
+                g.DrawCurve(p2, points, 1.0f);
+                pictureBox1.Image = Axis;
             }
         }
     }

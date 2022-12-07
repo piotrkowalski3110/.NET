@@ -1,0 +1,7 @@
+C:\Users\piotr\Desktop\.NET\LAB6\Fibbo-wyklad\bin\Debug\Fibbo_wyklad.exe
+C:\Users\piotr\Desktop\.NET\LAB6\Fibbo-wyklad\bin\Debug\Fibbo_wyklad.pdb
+C:\Users\piotr\Desktop\.NET\LAB6\Fibbo-wyklad\obj\Debug\Fibbo-wyklad.csproj.AssemblyReference.cache
+C:\Users\piotr\Desktop\.NET\LAB6\Fibbo-wyklad\obj\Debug\Fibbo-wyklad.csproj.SuggestedBindingRedirects.cache
+C:\Users\piotr\Desktop\.NET\LAB6\Fibbo-wyklad\obj\Debug\Fibbo-wyklad.csproj.CoreCompileInputs.cache
+C:\Users\piotr\Desktop\.NET\LAB6\Fibbo-wyklad\obj\Debug\Fibbo_wyklad.exe
+C:\Users\piotr\Desktop\.NET\LAB6\Fibbo-wyklad\obj\Debug\Fibbo_wyklad.pdb
