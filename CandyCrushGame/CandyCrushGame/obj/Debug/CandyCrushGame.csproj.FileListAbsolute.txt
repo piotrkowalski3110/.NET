@@ -1,0 +1,11 @@
+C:\Users\piotr\Desktop\.NET\CandyCrushGame\CandyCrushGame\bin\Debug\CandyCrushGame.exe.config
+C:\Users\piotr\Desktop\.NET\CandyCrushGame\CandyCrushGame\bin\Debug\CandyCrushGame.exe
+C:\Users\piotr\Desktop\.NET\CandyCrushGame\CandyCrushGame\bin\Debug\CandyCrushGame.pdb
+C:\Users\piotr\Desktop\.NET\CandyCrushGame\CandyCrushGame\obj\Debug\CandyCrushGame.csproj.AssemblyReference.cache
+C:\Users\piotr\Desktop\.NET\CandyCrushGame\CandyCrushGame\obj\Debug\CandyCrushGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\piotr\Desktop\.NET\CandyCrushGame\CandyCrushGame\obj\Debug\CandyCrushGame.Properties.Resources.resources
+C:\Users\piotr\Desktop\.NET\CandyCrushGame\CandyCrushGame\obj\Debug\CandyCrushGame.csproj.GenerateResource.cache
+C:\Users\piotr\Desktop\.NET\CandyCrushGame\CandyCrushGame\obj\Debug\CandyCrushGame.csproj.CoreCompileInputs.cache
+C:\Users\piotr\Desktop\.NET\CandyCrushGame\CandyCrushGame\obj\Debug\CandyCrushGame.exe
+C:\Users\piotr\Desktop\.NET\CandyCrushGame\CandyCrushGame\obj\Debug\CandyCrushGame.pdb
+C:\Users\piotr\Desktop\.NET\CandyCrushGame\CandyCrushGame\obj\Debug\CandyCrushGame.Form1.resources
